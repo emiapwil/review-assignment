@@ -1,0 +1,27 @@
+{
+  "reviewers": {
+    "A": {
+      "number-of-papers": 3
+    },
+    "B": {
+      "number-of-papers": 1
+    }
+  },
+  "papers": {
+    "1": {
+      "title": "hello",
+      "number-of-reviews": 2
+    },
+    "2": {
+      "title": "hello",
+      "number-of-reviews": 2
+    },
+    "3": {
+      "title": "hello",
+      "number-of-reviews": 2
+    }
+  },
+  "conflicts": [
+    ["B", "2"]
+  ]
+}
